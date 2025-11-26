@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus Javier Velazquez Carrillo</h1>
-<h3 align="center">A programmer passionate about framework development, projects focused on embedded systems, also projects using Java, CSS and Python.</h3>
+<h3 align="center">A programmer passionate about developing frameworks and projects focused on web development, using Java, CSS, Angular, React, C# and Python for projects..</h3>
 
-- 🔭 I’m currently working on **Web Site to Restaurant**
+- 🔭 I’m currently working on **Full Stac Developer**
 
-- 💬 Ask me about **Python,C++,CSS,Java**
+- 💬 Ask me about **Python,C++,CSS,Java,Angular,React,c#**
 
 - 📫 How to reach me **v.cjavier.velazquez@gmail.com**
 
